@@ -1,6 +1,6 @@
 # Hotel Booking Analysis
 <p align="center">
-     <b>A data analysis report to optimize the hotel's dwindling profit and lower reservation cancellations.</b>
+     <b>"A data analysis report aimed at optimizing the hotel's declining profits and reducing reservation cancellations."</b>
 </p>
 
 ### Business problem:
